@@ -1,5 +1,23 @@
 sword and spear
 wall of shields
+<<<<<<< HEAD
+
+standing strong
+on this their chosen battle field
+---------------------------------
+=======
+standing strong
+on this their chosen battle field
+
+From the lines
+Shield by shield
+Side by side
+We'ar marching into destiny
+
+March as one
+Don't look back
+Oden's sons
+Attack!
 
 abcd
------------------
+>>>>>>> b36be9d388802a6d1b5a4c2dab95e71c4584011c
